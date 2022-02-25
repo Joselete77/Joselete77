@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71654543/155770468-d3e48144-a0e4-40f1-bf23-a6843ffd2f71.gif">
+</p>
+
 ### Hey! 👋
 I'm Jose Angel, a 18 computer engineering student and here I will upload my computer projects at the university.
 I will also upload other projects that I do on my own.
