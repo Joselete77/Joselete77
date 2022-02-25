@@ -3,7 +3,7 @@
 </p>
 
 ### Hey! 👋
-I'm Jose Angel, a 18 computer engineering student and here I will upload my computer projects at the university.
+I'm Jose Angel, a 21 years old computer engineering student and here I will upload my computer projects at the university.
 I will also upload other projects that I do on my own.
 
 ### Learning 👨‍💻
