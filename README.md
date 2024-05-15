@@ -86,7 +86,6 @@ Here, I'll be sharing various personal projects. Hope you find them interesting!
     <img src="https://github.com/Joselete77/Joselete77/assets/71654543/a0a08f22-a4f1-4344-a37b-c92cc14da2ce" alt="shell" width="40" height="30"/> 
   </a>
 </p>
-![azure-icon-svgrepo-com](https://github.com/Joselete77/Joselete77/assets/71654543/273ed20c-c14b-4d2e-8530-0731a03cf5c6)
 
 ## 🌐 My Website
 <p align="left">
