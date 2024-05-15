@@ -55,17 +55,20 @@ Here, I'll be sharing various personal projects. Hope you find them interesting!
   </a>
   <br>    
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/1dff4912-3e7f-4dba-9451-b50c56934ff9" alt="zapier" width="40" height="30"/> 
+    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/1dff4912-3e7f-4dba-9451-b50c56934ff9" alt="ubuntu" width="40" height="30"/> 
   </a>
-    <a href="https://github.com/Joselete77/Joselete77/assets/71654543/a0a08f22-a4f1-4344-a37b-c92cc14da2ce" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/a0a08f22-a4f1-4344-a37b-c92cc14da2ce" alt="zapier" width="40" height="30"/> 
-  </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/e4d71b76-f716-4070-a6b1-09683dcb709e" alt="zapier" width="40" height="30"/> 
+    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/e4d71b76-f716-4070-a6b1-09683dcb709e" alt="torch" width="40" height="30"/> 
   </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/de4401ee-85b6-4dca-9e02-b4f9ca53522d" alt="zapier" width="40" height="30"/> 
+    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/de4401ee-85b6-4dca-9e02-b4f9ca53522d" alt="vscode" width="40" height="30"/> 
   </a> 
+  <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/273ed20c-c14b-4d2e-8530-0731a03cf5c6" alt="azure" width="40" height="30"/> 
+  </a>
+  <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/d846e5fd-3dec-49ed-bf44-77ec699c3736" alt="aws" width="40" height="30"/> 
+  </a>
   <br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> 
@@ -79,7 +82,11 @@ Here, I'll be sharing various personal projects. Hope you find them interesting!
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="30"/> 
   </a>
+  <a href="https://github.com/Joselete77/Joselete77/assets/71654543/a0a08f22-a4f1-4344-a37b-c92cc14da2ce" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Joselete77/Joselete77/assets/71654543/a0a08f22-a4f1-4344-a37b-c92cc14da2ce" alt="shell" width="40" height="30"/> 
+  </a>
 </p>
+![azure-icon-svgrepo-com](https://github.com/Joselete77/Joselete77/assets/71654543/273ed20c-c14b-4d2e-8530-0731a03cf5c6)
 
 ## 🌐 My Website
 <p align="left">
