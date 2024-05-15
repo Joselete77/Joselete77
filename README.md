@@ -54,19 +54,6 @@ Here, I'll be sharing various personal projects. Hope you find them interesting!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> 
   </a>
   <br>    
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> 
-  </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/> 
-  </a>  
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/> 
-  </a> 
-  <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="30"/> 
-  </a>
-  <br>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Joselete77/Joselete77/assets/71654543/1dff4912-3e7f-4dba-9451-b50c56934ff9" alt="zapier" width="40" height="30"/> 
   </a>
@@ -79,6 +66,24 @@ Here, I'll be sharing various personal projects. Hope you find them interesting!
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Joselete77/Joselete77/assets/71654543/de4401ee-85b6-4dca-9e02-b4f9ca53522d" alt="zapier" width="40" height="30"/> 
   </a> 
+  <br>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> 
+  </a>  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/> 
+  </a>  
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/> 
+  </a> 
+  <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="30"/> 
+  </a>
+</p>
+
+## 🌐 My Website
+<p align="left">
+<a href="https://portafoliojoseangel.netlify.app/" target="blank"><img align="center" src="https://github.com/Joselete77/Joselete77/assets/71654543/ebf13487-7020-4425-96ed-b5bb43285ec2" alt="joseangel_doradogonza_portfolio" height="30" width="40" /></a>
 </p>
 
 ## 📩 My Social Networks
@@ -89,10 +94,6 @@ Here, I'll be sharing various personal projects. Hope you find them interesting!
 <a href="https://instagram.com/joseangel_doradogonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseangel_doradogonza" height="30" width="40" /></a>
 </p>
 
-## 🌐 My Website
-<p align="left">
-<a href="https://www.linkedin.com/in/jose-angel-dorado-gonzalez/" target="blank"><img align="center" src="https://github.com/Joselete77/Joselete77/assets/71654543/571e5efc-31d7-47cf-aabe-eef026bfe914" alt="joseangel_doradogonza" height="30" width="40" /></a>
-</p>
 <!--
 **Joselete77/Joselete77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
