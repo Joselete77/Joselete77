@@ -4,7 +4,7 @@
 
 ## 👋 Hey there!
 
-I'm Jose Angel, a software engineer working at [Drive Me Group](https://www.drivemegroup.com/). I hold a degree in Computer Engineering from the University of Córdoba.
+I'm Jose Angel, a software engineer working at [VIDEOMOS](https://www.video-mos.com/).
 
 
 Here, I'll be sharing various personal projects. Hope you find them interesting! 😊👨‍💻
